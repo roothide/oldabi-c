@@ -1,7 +1,7 @@
 Package: oldabi
 Name: Legacy arm64e Support
 Version: 2.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Description: Support for legacy arm64e ABI in iOS 15.0+
 Maintainer: Nightwind
 Author: Nightwind
