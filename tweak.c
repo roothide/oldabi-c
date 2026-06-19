@@ -129,7 +129,7 @@ __attribute__((constructor)) static void ctor(void) {
 		}
 	}
 
-	if (is_whitelisted == false && strstr(executable_path, "/procursus/Applications") == NULL) {
+	if (is_whitelisted == false && strstr(executable_path, "/procursus/Applications/") == NULL) {
 		return;
 	}
 
